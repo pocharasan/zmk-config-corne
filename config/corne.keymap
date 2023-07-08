@@ -21,8 +21,8 @@
     Lower_layer {
       bindings = <
         &kp TAB &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6 &kp NUMBER_7 &kp NUMBER_8 &kp NUMBER_9 &kp NUMBER_0 &kp BACKSPACE 
-        &kp LEFT_CONTROL &trans &trans &trans &trans &trans &kp MINUS &kp PLUS &kp UP_ARROW &kp LEFT_BRACKET &kp RIGHT_BRACKET &kp BACKSLASH 
-        &kp LEFT_SHIFT &trans &trans &trans &trans &trans &trans &kp undefined &kp DOWN &kp RIGHT &trans &kp ESCAPE 
+        &kp LEFT_CONTROL &trans &trans &trans &trans &trans &kp MINUS &kp PLUS &kp UP &kp LEFT_BRACKET &kp RIGHT_BRACKET &kp BACKSLASH 
+        &kp LEFT_SHIFT &trans &trans &trans &trans &trans &trans &kp LEFT &kp DOWN &kp RIGHT &trans &kp ESCAPE 
         &kp LEFT_GUI &trans &kp SPACE &kp RETURN &trans &kp RIGHT_ALT 
       >;
     };
